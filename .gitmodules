@@ -1,0 +1,3 @@
+[submodule "pybob"]
+	path = pybob
+	url = git@github.com:n1ck3/pybob.git
